@@ -4,8 +4,7 @@ If target does not exist in source, just return -1.
 If source = "source" and target = "target", return -1.
 If source = "abcdabcdefg" and target = "bcd", return 1.
 */
-
-class Solution {
+public class Solution {
     /**
      * Returns a index to the first occurrence of target in source,
      * or -1  if target is not part of source.
