@@ -1,5 +1,5 @@
 //implemented using array and bit manipulation
-class BinaryIndexedTree{
+public class BinaryIndexedTree{
   int[] BIT;
 	public BinaryIndexedTree(int[] nums){
 	    this.nums=nums;
